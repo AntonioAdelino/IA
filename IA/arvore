@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJS strongest) (NN rain))
+        (VP
+          (ADVP (RB ever))
+          (VBN recorded)
+          (PP (IN in)
+            (NP (NNP India)))))
+      (VP
+        (VP (VBD shut)
+          (PRT (RP down))
+          (NP
+            (NP (DT the) (JJ financial) (NN hub))
+            (PP (IN of)
+              (NP (NNP Mumbai)))))
+        (, ,)
+        (VP (VBD snapped)
+          (NP (NN communication) (NNS lines)))
+        (, ,)
+        (VP (VBD closed)
+          (NP (NNS airports)))
+        (CC and)
+        (VP (VBD forced)
+          (NP
+            (NP (NNS thousands))
+            (PP (IN of)
+              (NP (NNS people))))
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB sleep)
+                  (PP (IN in)
+                    (NP (PRP$ their) (NNS offices))))
+                (CC or)
+                (VP (VB walk)
+                  (NP (NN home))
+                  (PP (IN during)
+                    (NP (DT the) (NN night))))))))))
+    (, ,)
+    (NP (NNS officials))
+    (VP (VBD said)
+      (NP (NN today)))
+    (. .)))
